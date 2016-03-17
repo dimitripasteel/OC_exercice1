@@ -1,0 +1,18 @@
+/*Voici du commentraire dans CSS*/
+body
+{
+	display : flex;
+}
+#conteneur
+{
+	display: flex;
+	flex-warp : warp;
+}
+h1
+{
+	color: green;
+}
+.introduction
+{
+	color: blue;
+}
